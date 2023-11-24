@@ -446,7 +446,7 @@ textarea.input {
           align-items: center;
   position: relative;
   gap: 0.625rem;
-  color: #7a7a7a;
+  color: #929292;
 }
 
 .checkbox__label:before {
@@ -458,7 +458,7 @@ textarea.input {
           flex: 0 0 1.25rem;
   width: 1.25rem;
   height: 1.25rem;
-  border: 0.0625rem solid #7a7a7a;
+  border: 0.0625rem solid #929292;
 }
 
 @supports (font-size: clamp( 0.875rem , 0.8337628866rem  +  0.206185567vw , 1rem )) {
@@ -474,7 +474,7 @@ textarea.input {
 }
 
 .checkbox__text a {
-  color: #4263a8;
+  color: #3c63b6;
 }
 
 .checkbox .checkbox__input:checked + .checkbox__label {
@@ -1676,7 +1676,7 @@ textarea.input {
 }
 
 .mainpage-product__button.click {
-  background-color: #4263a8;
+  background-color: #3c63b6;
 }
 
 .mainpage-product__btn-like,
@@ -1708,7 +1708,7 @@ textarea.input {
 }
 
 .mainpage-label_color {
-  background-color: #d15217;
+  background-color: #d14e11;
 }
 
 .mainpage-btn {
@@ -1731,7 +1731,7 @@ textarea.input {
 }
 
 .mainpage-btn.click {
-  background-color: #4263a8;
+  background-color: #3c63b6;
   color: #f2f2f2;
 }
 
@@ -2675,11 +2675,11 @@ input:checked + .slider:before {
 }
 
 .footer__txt_color {
-  color: #4263a8;
+  color: #3c63b6;
 }
 
 .footer__txt_color:hover {
-  color: #4263a8;
+  color: #3c63b6;
 }
 
 .footer__bloc {
@@ -2785,9 +2785,6 @@ input:checked + .slider:before {
 .footer__icon:hover {
   -webkit-transition: all 0.5s ease 0s;
   transition: all 0.5s ease 0s;
-  -webkit-transform: scale(1.2);
-      -ms-transform: scale(1.2);
-          transform: scale(1.2);
 }
 
 .wrapper {
@@ -6274,13 +6271,13 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
   }
 
   .mainpage-product__button:hover {
-    background-color: #4263a8;
+    background-color: #3c63b6;
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
   }
 
   .mainpage-btn:hover {
-    background-color: #4263a8;
+    background-color: #3c63b6;
     color: #f2f2f2;
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
